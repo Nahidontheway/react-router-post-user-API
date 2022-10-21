@@ -1,0 +1,13 @@
+.header{
+    background: indigo;
+    padding: 4px;
+
+}
+.header a{
+    text-decoration: none;
+    margin-right: 15px;
+    color: white;
+}
+.header a:hover{
+    color: bisque;
+}
